@@ -44,6 +44,7 @@ button4.addEventListener('click', ()=> {
 });
 button5.addEventListener('click', ()=> {
   document.getElementById('pronoun').textContent = 'She/Her';
+  
  
 });
 button6.addEventListener('click', ()=> {

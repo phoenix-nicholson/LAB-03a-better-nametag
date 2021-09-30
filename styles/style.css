@@ -48,6 +48,17 @@ footer {
     margin-left: 10px;
     border-radius: 0px 0px 15px 15px;
 }
-h2 {
-    
+#pronoun {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 400px;
+    font-weight: bold;
+}
+#controls {
+    text-align: center;
+}
+
+#name-tag {
+    display: grid;
+    justify-content: center;
 }
